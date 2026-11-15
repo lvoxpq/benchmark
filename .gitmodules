@@ -1,2 +1,3 @@
 [submodule "modules/benchmark-submodule"]
+	path = modules/benchmark-submodule
 	url = git@github.com:lvoxpq/benchmark-submodule.git
